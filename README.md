@@ -40,6 +40,7 @@ Technologies Used
 - Saved the processed data as a CSV for further analysis.
 ---
 3. Visualization & Reporting (Power BI)
+![image](https://github.com/Vetri2509/Market_Sentiment_Analysis/blob/main/images/Screenshot%202025-03-27%20182232.png)
 - Loaded SQL Server tables into Power BI using queries to minimize transformations in Power BI.
 
 - Created an interactive dashboard with four pages:
@@ -65,6 +66,8 @@ Technologies Used
 - This was my first-ever NLP/ML project in Python, and I learned how to use nltk for sentiment analysis.
 
 - Well-structured Power BI dashboards enhance decision-making by making insights easily accessible.
+
+
 
 
 
