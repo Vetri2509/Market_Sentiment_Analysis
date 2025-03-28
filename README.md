@@ -47,6 +47,30 @@ Technologies Used
 - Overview – High-level insights and key metrics, Conversion Details – Customer conversion trends and performance metrics, Social Media Details – Engagement and sentiment trends from social media data, Customer Review Details – Sentiment distribution and key feedback points.
 
 - Used DAX to create calculated measures for advanced analysis.
+---
+
+### Insights
+1. There is a decline in overall social media engagement, with views dropping throughout the year.
+2. Customer ratings have remained consistent, averaging around 3.7 throughout the year.
+3. May experienced the lowest overall conversion rate at 4.3%, January recorded the highest overall conversion rate at 18.5%
+4. Views peaked in February and July but declined from August, Clicks and likes remained consistently low compared to views
+5. The majority of customer reviews are in the higher ratings, with 140 reviews at 4 stars and 135 reviews at 5 stars, indicating overall positive feedback. Positive sentiment dominates with 275 reviews, reflecting a generally satisfied customer base. Negative sentiment is present in 82 reviews, with a smaller number of mixed and neutral sentiments, suggesting some areas for improvement but overall strong customer approval.
+
+---
+### Key Takeaways
+- Pre-cleaning data in SQL Server before loading into Power BI improves performance and reduces redundancy.
+
+- Python-based sentiment analysis provides deeper insights into customer feedback.
+
+- This was my first-ever NLP/ML project in Python, and I learned how to use nltk for sentiment analysis.
+
+- Well-structured Power BI dashboards enhance decision-making by making insights easily accessible.
+
+
+
+
+
+
 
 
 
